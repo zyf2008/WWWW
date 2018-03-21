@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     ///hahahahsd f
     UIView* view=[[UIView alloc]init];
+    
+    UIView* view2=[[UIView alloc]init];
 }
 
 
